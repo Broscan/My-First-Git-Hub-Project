@@ -9,3 +9,9 @@ string name = "Göran";
 Console.WriteLine(name);
 
 int number = 20;
+
+// Implementing feature ask for input
+
+Console.WriteLine("What's your name?");
+Console.Write("Name:");
+string userName = Console.ReadLine();
