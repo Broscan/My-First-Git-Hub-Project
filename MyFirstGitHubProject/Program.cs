@@ -7,3 +7,5 @@ Console.WriteLine("Yet another line of code!!!!!!");
 string name = "Göran";
 
 Console.WriteLine(name);
+
+int number = 20;
